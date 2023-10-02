@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMxbXNldG56eXQ3dHZqZGdlMWswbGp0amgwbmpqbDVlOWN6Y282cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px">
   <h1>👋 Hello, I'm Mohit Saini</h1>
-  <p>PASSIONATE FRONTEND DEVELOPER | FULL-STACK ENTHUSIAST | CREATIVE THINKER</p>
+  <h4>PASSIONATE FRONTEND DEVELOPER | FULL-STACK ENTHUSIAST | CREATIVE THINKER</h4>
 </div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
