@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMxbXNldG56eXQ3dHZqZGdlMWswbGp0amgwbmpqbDVlOWN6Y282cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMxbXNldG56eXQ3dHZqZGdlMWswbGp0amgwbmpqbDVlOWN6Y282cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
   <h1>👋 Hello, I'm Mohit Saini</h1>
   <h4>PASSIONATE FRONTEND DEVELOPER | FULL-STACK ENTHUSIAST | CREATIVE THINKER</h4>
 </div>
@@ -31,14 +31,15 @@
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-saini-140341253/)  
 🌐 Visit my [Portfolio](https://portfolio-ad2a2.web.app/) for more projects
 
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitsaini07&show_icons=true&locale=en&layout=compact" alt="mohitsaini07" /></p>
-
+<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitsaini07&show_icons=true&locale=en&layout=compact" alt="mohitsaini07" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitsaini07&show_icons=true&locale=en" alt="mohitsaini07" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsaini07&" alt="mohitsaini07" /></p>
 
+### Here is my some Holopin Badges
+
+[![@mohitsaini07's Holopin badges,](https://holopin.me/mohitsaini07)](https://holopin.io/@mohitsaini07)
 ---
 
 Thanks for visiting my GitHub profile! Please feel free to explore my projects and reach out to me. Let's build amazing things together! 🚀
