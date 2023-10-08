@@ -1,3 +1,5 @@
+[![@mohitsaini07's Holopin badges,](https://holopin.me/mohitsaini07)](https://holopin.io/@mohitsaini07)
+
 <div align="center">
   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMxbXNldG56eXQ3dHZqZGdlMWswbGp0amgwbmpqbDVlOWN6Y282cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
   <h1>👋 Hello, I'm Mohit Saini</h1>
@@ -39,7 +41,6 @@
 
 ### Here is my some Holopin Badges
 
-[![@mohitsaini07's Holopin badges,](https://holopin.me/mohitsaini07)](https://holopin.io/@mohitsaini07)
 ---
 
 Thanks for visiting my GitHub profile! Please feel free to explore my projects and reach out to me. Let's build amazing things together! 🚀
