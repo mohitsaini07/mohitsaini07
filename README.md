@@ -1,4 +1,4 @@
-[![@mohitsaini07's Holopin badges,](https://holopin.me/mohitsaini07)](https://holopin.io/@mohitsaini07)
+[![An image of @mohitsaini07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitsaini07)](https://holopin.io/@mohitsaini07)
 
 <div align="center">
   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMxbXNldG56eXQ3dHZqZGdlMWswbGp0amgwbmpqbDVlOWN6Y282cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
