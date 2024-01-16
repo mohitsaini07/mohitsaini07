@@ -39,8 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsaini07&" alt="mohitsaini07" /></p>
 
-### Here is my some Holopin Badges
-
 ---
 
 Thanks for visiting my GitHub profile! Please feel free to explore my projects and reach out to me. Let's build amazing things together! 🚀
