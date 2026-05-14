@@ -103,7 +103,7 @@ I specialize in creating seamless user experiences on the frontend while designi
 
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:mohitbhatwara2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohit-saini-140341253/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://mohit-saini-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://heyitsmohit.in)
 
 ---
 
