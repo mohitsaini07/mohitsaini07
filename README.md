@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Mohit Saini  
 
-### 🚀 Full-Stack Developer | React & Node.js Engineer | UI-Focused Problem Solver
+### 🚀 Full-Stack Developer | React & Next.js Engineer | UI-Focused Problem Solver
 
 </div>
 
@@ -19,7 +19,7 @@ I’m a passionate **Full-Stack Developer** who builds scalable, performant, and
 I specialize in creating seamless user experiences on the frontend while designing structured, efficient backend systems.
 
 - 🎓 Computer Science Student  
-- ⚡ Strong expertise in React ecosystem  
+- ⚡ Strong expertise in the React ecosystem  
 - 🧠 Backend development with Node.js & Express  
 - 🎨 Design-oriented engineer with strong UI/UX sense  
 - 📈 Focused on clean architecture & scalability  
