@@ -1,119 +1,125 @@
-[[![Holopin Badges](https://holopin.me/mohitsaini07)](https://holopin.io/@mohitsaini07)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=ffffff&center=true&vCenter=true&width=900&lines=Building+Beautiful+Interfaces...;Engineering+High-Performance+Web+Apps...;Learning+LLMs+%26+AI+Products...;Turning+Ideas+into+Products...;Welcome+to+Mohit's+Workspace." />
 
-<div align="center">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMxbXNldG56eXQ3dHZqZGdlMWswbGp0amgwbmpqbDVlOWN6Y282cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260"/>
-
-# 👋 Hi, I'm Mohit Saini  
-
-### 🚀 Full-Stack Developer | React & Next.js Engineer | UI-Focused Problem Solver
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I’m a passionate **Full-Stack Developer** who builds scalable, performant, and production-ready web applications.
-
-I specialize in creating seamless user experiences on the frontend while designing structured, efficient backend systems.
-
-- 🎓 Computer Science Student  
-- ⚡ Strong expertise in the React ecosystem  
-- 🧠 Backend development with Node.js & Express  
-- 🎨 Design-oriented engineer with strong UI/UX sense  
-- 📈 Focused on clean architecture & scalability  
-
----
-
-## 🛠 Tech Stack
-
-### 🚀 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
-
----
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
-
----
-
-### 🗄 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
-
----
-
-### 🎨 Design & Tools
-
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobe-photoshop)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
-
----
-
-## 🧠 What I Bring
-
-✔ End-to-end full-stack application development  
-✔ Clean, maintainable & scalable architecture  
-✔ Strong UI/UX implementation skills  
-✔ Performance-first development approach  
-✔ Problem-solving mindset  
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=mohitsaini07&show_icons=true&theme=default" />
+<p align="center">
+  <a href="https://holopin.io/@mohitsaini07">
+    <img src="https://holopin.me/mohitsaini07"/>
+  </a>
 </p>
 
-<p align="left">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitsaini07&layout=compact&theme=default" />
+<h1 align="center">Hi 👋 I'm Mohit Saini</h1>
+
+<h3 align="center">
+Frontend Engineer • React & Next.js Specialist • Building toward AI Product Engineering
+</h3>
+
+<p align="center">
+
+Building performant web experiences today.<br/>
+Designing AI-powered products for tomorrow.
+
 </p>
 
-<p align="left">
-  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsaini07&theme=default" />
-</p>
+## 🚀 About Me
+
+I'm a **Frontend Engineer** passionate about crafting fast, scalable, and delightful web experiences.
+
+My current focus is evolving beyond frontend development into **AI Product Engineering**—combining great user experience with LLMs, AI workflows, and intelligent product design.
+
+I enjoy building products that users actually love, not just applications that work.
+
+### Currently
+
+- ⚛️ Building modern React & Next.js applications
+- 🚀 Exploring AI Agents & LLM-powered products
+- 🎯 Learning Product Thinking & System Design
+- 🎨 Designing polished UI with performance in mind
+- 🌱 Shipping projects and improving every week
+
+## ⚡ Tech Stack
+
+### Frontend
+
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Redux • Svelte
+
+### Backend
+
+Node.js • Express • REST APIs • Supabase
+
+### AI
+
+OpenAI APIs • Prompt Engineering • AI SDK • RAG • AI Agents (Learning)
+
+### Database
+
+MongoDB • PostgreSQL • Supabase
+
+### Tools
+
+Git • GitHub • Vercel • Figma • Docker • Postman
+
+## 💡 Engineering Focus
+
+✔ Frontend Architecture
+
+✔ Responsive UI Engineering
+
+✔ Performance Optimization
+
+✔ Design Systems
+
+✔ Accessibility
+
+✔ AI-first Product Development
+
+✔ Product Thinking
+
+✔ Developer Experience
+
+## 🚀 Featured Projects
+
+### 📚 StudyLab AI
+
+An AI-powered study assistant that transforms PDFs and images into summaries, flashcards, quizzes, and notes.
+
+> Next.js • AI • OCR • Supabase
 
 ---
 
-## 📈 Currently Leveling Up
+### 📈 Website Ranker
 
-- Advanced backend architecture  
-- Scalable system design  
-- Authentication & security best practices  
-- Performance optimization techniques  
+Analyze any website using Core Web Vitals and receive actionable performance insights.
 
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:mohitbhatwara2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohit-saini-140341253/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://heyitsmohit.in)
+> Svelte • Performance Engineering
 
 ---
 
-## 🔥 Developer Philosophy
+### 💰 PriceDrop
 
-> Build scalable systems.  
-> Craft beautiful interfaces.  
-> Write clean code.  
-> Improve every day.
+Track product prices automatically and receive email alerts when prices fall.
 
----
+> Next.js • Firecrawl • Supabase • Cron Jobs
 
-⭐ Focused on becoming a high-impact Software Engineer and building meaningful digital experiences.](https://www.heyitsmohit.in/)
+## 🌱 Currently Learning
+
+- AI Product Engineering
+- Multi-Agent Workflows
+- Retrieval-Augmented Generation (RAG)
+- AI SDKs & MCP
+- Product Strategy
+- Advanced Frontend Architecture
+  
+## 💭 Philosophy
+
+> Great products are built at the intersection of engineering, design, and user understanding.
+
+I believe software isn't just about writing code—it's about solving meaningful problems with thoughtful user experiences.
+
+## 🎯 2026 Goals
+
+- Build production-grade AI products
+- Contribute to open source
+- Join a world-class product company
+- Become an AI Product Engineer
+- Help millions of users through software
+
+⭐ Building beautiful interfaces today. Building intelligent products tomorrow.
