@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋 I'm Mohit Saini</h1>
 
 <h3 align="center">
-Frontend Engineer • React & Next.js Specialist • Building toward AI Product Engineering
+Full-Stack Developer • React & Next.js Specialist • Building toward AI Product Engineering
 </h3>
 
 <p align="center">
@@ -21,9 +21,9 @@ Designing AI-powered products for tomorrow.
 
 ## 🚀 About Me
 
-I'm a **Frontend Engineer** passionate about crafting fast, scalable, and delightful web experiences.
+I'm a **Full-Stack Developer** passionate about crafting fast, scalable, and delightful web experiences.
 
-My current focus is evolving beyond frontend development into **AI Product Engineering**—combining great user experience with LLMs, AI workflows, and intelligent product design.
+My current focus is evolving beyond full-stack development into **AI Product Engineering**—combining great user experience with LLMs, AI workflows, and intelligent product design.
 
 I enjoy building products that users actually love, not just applications that work.
 
